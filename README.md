@@ -77,7 +77,7 @@ The orchestrator rule automatically classifies tasks and starts the appropriate 
 
   | Install Type | Rules | Workflows |
   |:-------------|:------|:----------|
-  | Global | `~/.gemini/antigravity/rules/` | `~/.gemini/antigravity/workflows/` |
+  | Global | `~/.gemini/antigravity/rules/` | `~/.gemini/antigravity/global_workflows/` |
   | Project | `<project>/.gemini/rules/` | `<project>/.gemini/workflows/` |
 
 - NOTE: Windows installation is not supported yet. Will be supported soon.
